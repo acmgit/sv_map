@@ -1,7 +1,7 @@
-
 3d_armor_stand:armor_stand 160 146 126
 3d_armor_stand:locked_armor_stand 163 152 134
 3d_armor_stand:top 0 0 0
+abriglass:glass_light_yellow 255 247 109
 angled_walls:brick_corner_135 160 165 157
 angled_walls:brick_corner 160 165 157
 angled_walls:brick_corner_225 160 165 157
@@ -1125,6 +1125,9 @@ basic_materials:concrete_block_technic_cnc_spike 178 171 164
 basic_materials:concrete_block_technic_cnc_stick 178 171 164
 basic_materials:concrete_block_technic_cnc_twocurvededge 178 171 164
 basic_materials:concrete_block_thinstair 178 171 164
+bbq:kettle_grill 255 190 134
+bbq:kettle_grill_base 255 109 109
+bbq:propane_grill_pro 186 186 186
 bedrock:bedrock 58 57 56
 bedrock:deepstone 109 100 89
 bedrock:deepstone_cube 107 98 88
@@ -2050,8 +2053,11 @@ bushes:raspberry_bush 35 124 6
 bushes:strawberry_bush 35 124 6
 bushes:youngtree2_bottom 133 99 74
 butterflies:butterfly_red 189 46 62
+butterflies:hidden_butterfly_red 255 113 129
 butterflies:butterfly_violet 114 22 167
+butterflies:hidden_butterfly_violet 233 111 255
 butterflies:butterfly_white 241 238 233
+butterflies:hidden_butterfly_white 170 167 162
 camo:blank_camo 203 203 203
 camo:blue_camo 31 43 125
 camo:blue_camo_cupola 31 43 125
@@ -5349,6 +5355,9 @@ cherrytree:slab_wood_quarter 137 0 0
 cherrytree:trunk 247 211 195
 chests_2:chest_locked_x2 140 108 65
 chests_2:chest_x2 140 108 65
+clementinetree:leaves 85 255 81
+clementinetree:trunk 190 130 56
+clementinetree:clementine 255 207 162
 coloredwood:fence 221 221 221
 coloredwood:fence_aqua 7 177 92
 coloredwood:fence_aqua_s50 50 135 92
@@ -10460,6 +10469,7 @@ default:acacia_tree_microslab 188 109 90
 default:acacia_tree_nanoslab 188 109 90
 default:acacia_tree_outerstair 188 109 90
 default:acacia_tree_panel 188 109 90
+default:acacia_tree_technic_cnc_spike 188 109 90
 default:acacia_tree_thinstair 188 109 90
 default:acacia_wood 146 60 37
 default:acacia_wood_cube 146 60 37
@@ -10910,6 +10920,7 @@ default:jungletree_microslab 105 76 41
 default:jungletree_nanoslab 105 76 41
 default:jungletree_outerstair 105 76 41
 default:jungletree_panel 105 76 41
+default:jungletree_technic_cnc_spike 105 76 41
 default:jungletree_thinstair 105 76 41
 default:junglewood 47 33 11
 default:junglewood_cube 54 37 11
@@ -11637,6 +11648,11 @@ dryplants:wetreed_roof 63 99 30
 dryplants:wetreed_roof_corner_2 63 99 30
 dryplants:wetreed_roof_corner 63 99 30
 dryplants:wetreed_slab 63 99 30
+ebony:creeper 0 130 0
+ebony:liana 0 97 0
+ebony:creeper_leaves 65 130 0
+ebony:trunk 77 36 0
+ebony:leaves 0 77 0
 ethereal:baked_clay_grey 151 149 150
 ethereal:baked_clay_orange 155 117 76
 ethereal:baked_clay_red 107 55 54
@@ -12344,6 +12360,7 @@ ferns:tree_fern_leaves_giant 115 160 67
 fire:basic_flame 147 47 11
 fireflies:firefly 247 229 37
 fireflies:firefly_bottle 190 191 198
+fireflies:hidden_firefly 120 103 0
 fire:permanent_flame 218 120 36
 flowers:chrysanthemum_green 101 140 39
 flowers:dandelion_white 136 151 123
@@ -14786,6 +14803,9 @@ led_marquee:char_96 16 16 16
 led_marquee:char_97 16 16 16
 led_marquee:char_98 16 16 16
 led_marquee:char_99 16 16 16
+lemontree:trunk 235 195 166
+lemontree:lemon 255 251 0
+lemontree:leaves 130 255 0
 Lhomedecor:cobweb_centered 239 239 239
 life_crystal:bright_crystal 42 95 176
 life_crystal:crystal 0 202 24
@@ -14860,6 +14880,13 @@ lrfurn:sofa_right_red 126 13 13
 lrfurn:sofa_right_violet 131 11 181
 lrfurn:sofa_right_white 216 216 216
 lrfurn:sofa_right_yellow 223 223 0
+mahogany:creeper 0 142 0
+mahogany:flower_creeper 203 203 203
+mahogany:hanging_creeper 0 142 0
+mahogany:leaves 0 211 0
+mahogany:slab_wood_1 113 0 0
+mahogany:slab_wood_two_sides 113 0 0
+mahogany:trunk 109 52 0
 maptools:black 0 0 0
 maptools:brick 190 192 183
 maptools:bronzeblock 155 92 12
@@ -14925,6 +14952,12 @@ markers:stone 120 112 89
 memorandum:letter_empty 85 87 83
 memorandum:letter_written 85 87 83
 memorandum:message 211 212 211
+meseconductors:garden_lamp_on 250 250 250
+meseconductors:garden_lamp_off 186 186 186
+meseconductors:building_blocks_Marble_on 200 200 199
+meseconductors:default_dirt_with_grass_on 59 103 27
+meseconductors:default_sandstonebrick 160 144 108
+meseconductors:mese_light_off 231 227 0
 mesecons_blinkyplant:blinky_plant_off 60 84 37
 mesecons_blinkyplant:blinky_plant_on 62 84 39
 mesecons_button:button_off 122 122 122
@@ -19738,6 +19771,7 @@ more_chests:dropbox 82 121 134
 more_chests:secret 111 111 111
 more_chests:shared 105 132 64
 more_chests:wifi 42 59 61
+morelights_vintage:lantern_w 255 235 223
 moreores:copper_rail 114 82 33
 moreores:mineral_mithril 91 88 87
 moreores:mineral_mithril_cube 97 94 93
@@ -20361,6 +20395,7 @@ moretrees:oak_leaves 49 65 21
 moretrees:oak_planks 117 87 47
 moretrees:oak_sapling 29 102 6
 moretrees:oak_sapling_ongen 29 102 6
+moretrees:oak_trunk_technic_cnc_spike 50 49 48
 moretrees:oak_trunk 50 49 48
 moretrees:palm_fruit_trunk 160 115 71
 moretrees:palm_fruit_trunk_gen 160 115 71
@@ -21622,6 +21657,7 @@ moretrees:stair_willow_planks_half 145 121 51
 moretrees:stair_willow_planks_inner 145 121 51
 moretrees:stair_willow_planks_outer 145 121 51
 moretrees:stair_willow_planks_right_half 145 121 51
+moretrees:willow_planks_technic_cnc_spike 145 121 51
 moretrees:stair_willow_trunk 62 52 51
 moretrees:stair_willow_trunk_alt_1 62 52 51
 moretrees:stair_willow_trunk_alt_2 62 52 51
@@ -21667,6 +21703,8 @@ mushroom:red 58 58 58
 mushroom:red_natural 58 58 58
 mushroom:spore_brown 215 96 0
 mushroom:spore_red 255 0 0
+mychisel:horizontal_default_sandstone_brick1 160 144 108
+mymeshnodes:circle_default_sandstone_brick 160 144 108
 nature:blossom 34 52 29
 nixie_tubes:alnum_100 46 46 46
 nixie_tubes:alnum_101 46 46 46
@@ -22907,6 +22945,7 @@ signs:sign_wall_white_black 87 87 87
 signs:sign_wall_white_red 87 87 87
 signs:sign_wall_yellow 87 87 87
 signs:sign_yard 70 52 25
+smartshop:shop 255 190 255
 smelter:smelter 172 152 146
 smelter:smelter_active 172 152 146
 solidcolor:block 255 255 255
@@ -29020,6 +29059,9 @@ wrench:picked_up_technic_mv_grinder_active 94 145 48
 wrench:picked_up_technic_silver_chest 80 82 84
 wrench:picked_up_technic_silver_locked_chest 80 82 84
 wrench:picked_up_technic_tool_workshop 55 55 55
+xconnected:fence_pine_c3 181 161 128
+xconnected:fence_pine_c4 181 161 128
+xconnected:fence_pine_ln 181 161 128
 xdecor:baricade 91 63 40
 xdecor:barrel 160 111 71
 xdecor:barrel_cube 160 111 71
