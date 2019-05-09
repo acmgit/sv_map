@@ -19775,6 +19775,8 @@ more_chests:secret 111 111 111
 more_chests:shared 105 132 64
 more_chests:wifi 42 59 61
 morelights_vintage:lantern_w 255 235 223
+morelights_modern:streetpost_l 170 170 170
+morelights_modern:pathlight_l 230 238 238
 moreores:copper_rail 114 82 33
 moreores:mineral_mithril 91 88 87
 moreores:mineral_mithril_cube 97 94 93
