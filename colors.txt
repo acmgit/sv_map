@@ -19774,9 +19774,10 @@ more_chests:dropbox 82 121 134
 more_chests:secret 111 111 111
 more_chests:shared 105 132 64
 more_chests:wifi 42 59 61
-morelights_vintage:lantern_w 255 235 223
+morelights_extras:sandstone_block 195 192 181
 morelights_modern:streetpost_l 170 170 170
 morelights_modern:pathlight_l 230 238 238
+morelights_vintage:lantern_w 255 235 223
 moreores:copper_rail 114 82 33
 moreores:mineral_mithril 91 88 87
 moreores:mineral_mithril_cube 97 94 93
@@ -21708,6 +21709,11 @@ mushroom:red 58 58 58
 mushroom:red_natural 58 58 58
 mushroom:spore_brown 215 96 0
 mushroom:spore_red 255 0 0
+mymillwork:column_base_default_silver_sandstone_brick 195 192 181
+mymillwork:column_default_silver_sandstone_brick 195 192 181
+mymillwork:crownmould_oc_default_silver_sandstone_brick 195 192 181
+mymillwork:crownmould_default_silver_sandstone_brick 195 192 181
+mychisel:chiseled_default_silver_sandstone_brick3 195 192 181
 mychisel:horizontal_default_sandstone_brick1 160 144 108
 mymeshnodes:circle_default_sandstone_brick 160 144 108
 nature:blossom 34 52 29
