@@ -1,4 +1,4 @@
-3d_armor_stand:armor_stand 160 146 126
+# beds
 3d_armor_stand:locked_armor_stand 163 152 134
 3d_armor_stand:top 0 0 0
 abriglass:glass_light_yellow 255 247 109
@@ -1051,6 +1051,7 @@ basic_materials:brass_block_technic_cnc_twocurvededge 192 159 55
 basic_materials:brass_block_thinstair 192 159 55
 basic_materials:cement_block 121 114 108
 basic_materials:cement_block_cube 121 114 108
+basic_materials:cement_block_technic_cnc_slope_inner_edge_upsdown 121 114 108
 basic_materials:cement_block_doublepanel 121 114 108
 basic_materials:cement_block_halfstair 121 114 108
 basic_materials:cement_block_innerstair 121 114 108
@@ -10266,6 +10267,8 @@ cucina_vegana:parsley_3 0 211 0
 cucina_vegana:parsley_4 0 211 0
 cucina_vegana:parsley_5 0 235 0
 cucina_vegana:wild_parsley 0 235 0
+cucina_vegana:peanut_7 188 238 104
+cucina_vegana:wild_peanut 188 238 104
 cucina_vegana:sunflower_1 0 211 0
 cucina_vegana:sunflower_2 0 186 0
 cucina_vegana:sunflower_3 0 166 0
@@ -29409,3 +29412,65 @@ youngtrees:youngtree2_middle 94 68 49
 youngtrees:youngtree_bottom 51 38 33
 youngtrees:youngtree_middle 176 199 137
 youngtrees:youngtree_top 190 211 156
+#
+hyperloop:booking 0 230 240
+hyperloop:doorBottom 0 250 250
+hyperloop:doorTopPassive 0 250 250
+hyperloop:junction 0 220 220
+hyperloop:lcd  0 210 230
+hyperloop:pod_floor 0 220 250
+hyperloop:pod_wall  250 250 250
+hyperloop:pod_wall_ni 250 250 250
+hyperloop:poster1L  0 230 250
+hyperloop:poster1R  0 230 250
+hyperloop:poster2L  0 230 250
+hyperloop:poster2R 0 230 250
+hyperloop:poster3L  0 230 250
+hyperloop:poster3R  0 230 250
+hyperloop:poster4L  0 230 250
+hyperloop:poster4R 0 230 250
+hyperloop:poster6L  0 230 250
+hyperloop:poster6R  0 230 250
+hyperloop:poster7L  0 230 250
+hyperloop:poster7R 0 230 250
+hyperloop:poster8L 0 230 250
+hyperloop:poster8R 0 230 250
+hyperloop:seat 190 0 0
+hyperloop:sign 0 230 240
+hyperloop:station 253 253 253
+hyperloop:tubeS2 0 220 220
+hyperloop:tube_wifi1 0 220 220
+#
+worldedit:placeholder 255 0 0
+#
+bbq:woodpile_junglewood 47 33 11
+#
+morelights_extras:dirt_with_grass 124 54 0
+#
+default:goldblock_letter_au 189 164 0
+default:goldblock_letter_bu 189 164 0
+default:goldblock_letter_ku 189 164 0
+default:goldblock_letter_nu 189 164 0
+default:pine_wood_letter_ou 221 184 129
+default:pine_wood_letter_su 221 184 129
+default:pine_wood_letter_pu 221 184 129
+default:pine_wood_letter_hu 221 184 129
+default:wood_letter_iu 110 85 48
+default:wood_letter_nu 110 85 48
+default:wood_letter_du 110 85 48
+default:wood_letter_au 110 85 48
+default:wood_letter_mu 110 85 48
+#
+mydeck:deck_joists_side 200 190 160
+mydeck:deck_joists_side_beam 200 190 160
+mydeck:deck_joists_side_beam_wbracket 200 190 160
+mydeck:lattice 200 190 160
+mydeck:machine 200 190 160
+mydeck:pile_wpost 200 190 160
+mydeck:post 200 190 160
+mydeck:rail 200 190 160
+mydeck:rail_corner 200 190 160
+nyancat:nyancat 255 131 250
+nyancat:nyancat_rainbow 255 52 179
+#
+mychisel:cross_default_silver_sandstone_brick1 190 188 178
