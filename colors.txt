@@ -1051,6 +1051,7 @@ basic_materials:brass_block_technic_cnc_twocurvededge 192 159 55
 basic_materials:brass_block_thinstair 192 159 55
 basic_materials:cement_block 121 114 108
 basic_materials:cement_block_cube 121 114 108
+basic_materials:cement_block_technic_cnc_slope_inner_edge_upsdown 121 114 108
 basic_materials:cement_block_doublepanel 121 114 108
 basic_materials:cement_block_halfstair 121 114 108
 basic_materials:cement_block_innerstair 121 114 108
