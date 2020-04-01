@@ -40306,6 +40306,7 @@ cucina_vegana:parsley_3 0 211 0
 cucina_vegana:parsley_4 0 211 0
 cucina_vegana:parsley_5 0 235 0
 cucina_vegana:wild_parsley 0 235 0
+cucina_vegana:peanut_5 188 238 104
 cucina_vegana:peanut_7 188 238 104
 cucina_vegana:wild_peanut 188 238 104
 cucina_vegana:sunflower_1 0 211 0
@@ -58861,6 +58862,7 @@ hyperloop:seat 190 0 0
 hyperloop:sign 0 230 240
 hyperloop:station 253 253 253
 hyperloop:tubeS2 0 220 220
+hyperloop:tubeA2 0 220 220
 hyperloop:tube_wifi1 0 220 220
 #
 worldedit:placeholder 255 0 0
@@ -58919,6 +58921,10 @@ techage:boiler2 255 140 0
 techage:ceilinglamp_off 162 181 205
 techage:charcoal_burn 255 165 79
 techage:chest_ta4 72 118 255
+techage:coalboiler_base 255 140 0
+techage:coalboiler_top 255 140 0
+techage:coalfirebox 255 165 79
+techage:coalfirehole_on 255 165 79
 techage:coal_lighter_burn 255 165 79
 techage:construction_board 255 218 185
 techage:cooler 205 133 63
@@ -58951,6 +58957,7 @@ techage:flame7 255 69 0
 techage:flywheel 238 0 0
 techage:flywheel_on 238 0 0
 techage:forceload  0 0 255
+techage:furnace_heater 238 0 0
 techage:gearbox 205 133 63
 techage:gearbox_on 205 133 63
 techage:generator_on 205 0 0
@@ -58978,6 +58985,7 @@ techage:streetlamp_arm 240 255 255
 techage:streetlamp_on 240 255 255
 techage:streetlamp_pole 240 255 255
 techage:streetlamp2_on 240 255 255
+techage:streetlamp2_off 200 215 215
 techage:turbine_on 205 133 63
 techage:ta2_electronic_fab_pas 238 0 0
 techage:ta2_gravelsieve_pas 238 0 0
@@ -58995,7 +59003,12 @@ techage:ta3_distiller2 205 133 63
 techage:ta3_distiller3 205 133 63
 techage:ta3_distiller4 205 133 63
 techage:ta3_distributor_pas 205 133 63
+techage:ta3_distributor_act 205 133 63
 techage:ta3_drillbox_pas 205 133 63
+techage:ta3_electronic_fab_pas 205 133 63
+techage:ta3_gravelsieve_act 205 133 63
+techage:ta3_furnace_pas 205 133 63
+techage:ta3_grinder_act 205 133 63
 techage:ta3_liquidsampler_pas 205 133 63
 techage:ta3_pipeA 205 205 0
 techage:ta3_pipeS 205 205 0
@@ -59010,13 +59023,17 @@ techage:ta3_tank 205 133 63
 techage:ta4_chest 72 118 255
 techage:ta4_doser 72 118 255
 techage:ta4_distributor_pas 72 118 255
+techage:ta4_distributor_act 72 118 255
 techage:ta4_generator_on 72 118 255
 techage:ta4_gravelsieve_pas 72 118 255
+techage:ta4_gravelsieve_act 72 118 255
 techage:ta4_grinder_pas 72 118 255
+techage:ta4_grinder_act 72 118 255
 techage:ta4_power_cableA 0 245 255
 techage:ta4_power_cableS 0 245 255
 techage:ta4_power_box 72 118 255
 techage:ta4_pusher_pas 72 118 255
+techage:ta4_pusher_act 72 118 255
 techage:ta4_reactor_base 72 118 255
 techage:ta4_reactor_stand 72 118 255
 techage:ta4_reactor 72 118 255
@@ -59056,6 +59073,7 @@ wielded_light:10 245 255 250
 
 #compost
 compost:garden_soil 139 69 0
+compost:wood_barrel 255 185 15
 compost:wood_barrel_1 255 185 15
 compost:wood_barrel_2 255 185 15
 compost:wood_barrel_3 255 185 15
