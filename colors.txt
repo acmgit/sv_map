@@ -5375,19 +5375,19 @@ chains:chandelier_brass 198 165 70
 cherrytree:blossom_leaves 255 190 255
 cherrytree:cherries 255 28 28
 cherrytree:leaves 0 77 0
-cherrytree:sapling   
+cherrytree:sapling 124 252 0
 cherrytree:slab_wood_quarter 137 0 0
 cherrytree:slab_wood_three_quarter 134 0 0
 cherrytree:trunk 247 211 195
-cherrytree:wood   
+cherrytree:wood 238 118 0
 chests_2:chest_locked_x2 140 108 65
 chests_2:chest_x2 140 108 65
 chesttools:shared_chest 0 0 238
 clementinetree:clementine 255 207 162
 clementinetree:leaves 85 255 81
-clementinetree:sapling   
+clementinetree:sapling 124 252 0
 clementinetree:trunk 190 130 56
-clementinetree:wood   
+clementinetree:wood 205 102 0
 coloredwood:fence 221 221 221
 coloredwood:fence_aqua 7 177 92
 coloredwood:fence_aqua_s50 50 135 92
@@ -10525,7 +10525,7 @@ default:acacia_wood_nanoslab 146 60 37
 default:acacia_wood_outerstair 146 60 37
 default:acacia_wood_panel 146 60 37
 default:acacia_wood_thinstair 146 60 37
-"default:apple	175" 42 38 
+default:apple 175 42 38
 default:apple_mark 255 64 64
 default:aspen_leaves 70 104 27
 default:aspen_sapling 82 110 43
@@ -10554,7 +10554,7 @@ default:aspen_wood_thinstair 209 198 169
 default:blueberry_bush_leaves 60 93 21
 default:blueberry_bush_leaves_with_berries 60 93 21
 default:blueberry_bush_sapling 79 109 30
-"default:bookshelf	147" 113 60 
+default:bookshelf 147 113 60
 default:brick 190 192 183
 default:brick_cube 117 71 69
 default:brick_doublepanel 117 71 69
@@ -11074,13 +11074,13 @@ default:obsidian_glass_panel 19 21 23
 default:obsidian_glass_thinstair 19 21 23
 default:obsidian_halfstair 19 21 24
 default:obsidian_innerstair 19 21 24
-default:obsidian_letter_au   
-default:obsidian_letter_eu   
-default:obsidian_letter_iu   
-default:obsidian_letter_ou   
-default:obsidian_letter_pu   
-default:obsidian_letter_su   
-default:obsidian_letter_tu   
+default:obsidian_letter_au 19 21 24
+default:obsidian_letter_eu 19 21 24
+default:obsidian_letter_iu 19 21 24
+default:obsidian_letter_ou 19 21 24
+default:obsidian_letter_pu 19 21 24
+default:obsidian_letter_su 19 21 24
+default:obsidian_letter_tu 19 21 24
 default:obsidian_micropanel 19 21 24
 default:obsidian_microslab 19 21 24
 default:obsidian_nanoslab 19 21 24
@@ -11373,6 +11373,7 @@ default:tinblock_nanoslab 149 149 149
 default:tinblock_outerstair 149 149 149
 default:tinblock_panel 149 149 149
 default:tinblock_thinstair 149 149 149
+default:torch   
 "default:torch	255" 255 0 
 default:torch_ceiling 120 98 67
 default:torch_wall 120 98 67
@@ -13522,20 +13523,21 @@ homedecor:curtainrod_wood 110 85 48
 homedecor:curtainrod_wrought_iron 103 95 88
 homedecor:curtain_violet 92 47 142
 homedecor:curtain_white 191 191 191
-"homedecor:cutlery_set	191" 191 174 
+homedecor:cutlery_set 245 245 245
+homedecor:cutlery_set 191 174 
 homedecor:dartboard 67 67 67
 homedecor:deckchair 172 151 122
 homedecor:deckchair_foot 100 60 6
 homedecor:deckchair_head 100 60 6
 homedecor:deckchair_striped_blue 107 104 93
-"homedecor:desk	203" 151 83 
+homedecor:desk 203 151 83
 homedecor:desk_fan 172 172 172
 homedecor:desk_globe 104 41 16
 homedecor:desk_lamp 224 224 224
 homedecor:desk_lamp_14 224 224 224
 homedecor:desk_lamp_blue 19 22 56
 homedecor:desk_lamp_green 31 56 19
-"homedecor:desk_lamp_red	150" 11 11 
+homedecor:desk_lamp_red 150 11 11
 homedecor:desk_lamp_violet 56 19 56
 homedecor:desk_locked 219 219 219
 homedecor:digital_clock 68 68 68
@@ -15007,7 +15009,7 @@ mahogany:hanging_creeper 0 142 0
 mahogany:leaves 0 211 0
 mahogany:slab_wood_1 113 0 0
 mahogany:slab_wood_two_sides 113 0 0
-mahogany:stair_wood   
+mahogany:stair_wood 113 0 0
 mahogany:trunk 109 52 0
 maptools:black 0 0 0
 maptools:brick 190 192 183
@@ -21847,7 +21849,7 @@ mydeck:pile_wpost 200 190 160
 mydeck:post 200 190 160
 mydeck:rail 200 190 160
 mydeck:rail_corner 200 190 160
-mydeck:stairs   
+mydeck:stairs 200 190 160
 mydeck:stairsb 200 190 160
 mydeck:stairs_raill 200 190 160
 mydeck:stairs_raill_end 200 190 160
@@ -22305,8 +22307,8 @@ pipeworks:pipe_8_empty 198 198 198
 pipeworks:pipe_8_loaded 198 198 198
 pipeworks:pipe_9_empty 198 198 198
 pipeworks:pipe_9_loaded 198 198 198
-pipeworks:priority_tube_10 192 192 192
 pipeworks:priority_tube_1 192 192 192
+pipeworks:priority_tube_10 192 192 192
 pipeworks:priority_tube_2 192 192 192
 pipeworks:priority_tube_3 192 192 192
 pipeworks:priority_tube_4 192 192 192
@@ -22355,8 +22357,8 @@ pipeworks:teleport_tube_7 251 210 115
 pipeworks:teleport_tube_8 251 210 115
 pipeworks:teleport_tube_9 251 210 115
 pipeworks:trashcan 158 156 152
-pipeworks:tube_10 192 192 192
 pipeworks:tube_1 192 192 192
+pipeworks:tube_10 192 192 192
 pipeworks:tube_2 192 192 192
 pipeworks:tube_3 192 192 192
 pipeworks:tube_4 192 192 192
@@ -23120,6 +23122,7 @@ scifi_nodes:slab_greenmetal_two_sides 124 252 0
 scifi_nodes:slab_mesh2_1 10 10 10
 scifi_nodes:slab_mesh2_two_sides 10 10 10
 scifi_nodes:slab_rock_1 45 45 45
+scifi_nodes:slab_white2_1   
 scifi_nodes:slope_lighttop 228 228 228
 scifi_nodes:slope_mesh2 10 10 10
 scifi_nodes:slope_mesh2_half 10 10 10
@@ -28589,6 +28592,8 @@ vines:willow_middle 127 133 37
 walls:cobble 88 84 82
 walls:desertcobble 107 65 49
 walls:mossycobble 86 90 68
+water_life:muddy_river_water_flowing 205 133 0
+water_life:muddy_river_water_source 205 133 0
 wielded_light:10 245 255 250
 windmill:axis 110 85 48
 windmill_large:large_windmill 97 97 96
@@ -29763,9 +29768,9 @@ xpanes:abriglass_pane_yellow_flat 255 255 255
 xpanes:bamboo_frame 0 0 0
 xpanes:bamboo_frame_flat 0 0 0
 xpanes:bar 114 114 114
+xpanes:bar_1 128 128 128
 xpanes:bar_10 128 128 128
 xpanes:bar_11 128 128 128
-xpanes:bar_1 128 128 128
 xpanes:bar_12 128 128 128
 xpanes:bar_13 128 128 128
 xpanes:bar_14 128 128 128
